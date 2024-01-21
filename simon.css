@@ -1,0 +1,51 @@
+ 
+ body {
+    text-align: center;
+ }
+ 
+ .boxes {
+    height: 420px;
+    width: 420px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+
+}
+.red {
+    height: 190px;
+    width: 190px;
+    background-color: red;
+    border-radius: 40px;
+    border: 6px solid black;
+}
+.yellow {
+    height: 190px;
+    width: 190px;
+    background-color: yellow;
+    border-radius: 40px;
+    border: 6px solid black;
+}
+.blue
+{
+    height: 190px;
+    width: 190px;
+    background-color: blue;
+    border-radius: 40px;
+    border: 6px solid black;
+}
+.green {
+    height: 190px;
+    width: 190px;
+    background-color: green;
+    border-radius: 40px;
+    border: 6px solid black;
+}
+
+.gameflash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: black;
+}
