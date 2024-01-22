@@ -23,12 +23,3 @@ ul.addEventListener("click", function (event) {   // this concept is known as Ev
     }
 
 })
-
-
-// let delBtns = document.querySelectorAll (".delete");  "if we do this event will not triger for the latest added lists"
-// for(delBtn of delBtns){
-//     delBtn.addEventListener ("click", function() {
-//         let par = this.parentElement; 
-//         par.remove();
-//     });
-//  }
